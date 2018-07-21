@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\classes-20ffcdc7ebd001255d026a2505efebe31e6ff609.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d8979f43431171c429c80f9756dff80efc9c654b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kenny\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-52dd19030bc3f08ea15f9a438afcf6e18f8b1744.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Kenny\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\classes-37afbc8ad2d23d3ffad1d184d5c7158319ede96d.jar" />
+    </item>
+
+</items>
